@@ -1,0 +1,14 @@
+SMAP
+kid_jsp.java
+JSP
+*S JSP
+*F
++ 0 kid.jsp
+kid.jsp
+*L
+5,23:44
+28:67,3
+29,27:70
+56:97,3
+57,4:100
+*E
